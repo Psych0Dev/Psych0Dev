@@ -1,41 +1,18 @@
+<h1 align="center">Hi 👋, I'm Psych0Dev</h1>
+<h3 align="center">A Full Stack Developer from Slovakia</h3>
 
-<p align="center">
-    <h1 align="center">Hi, my name is Psych0Dev 👋</h1>
+- 🔭 I’m currently working on **Nexit**
+
+- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+
+- 📫 You can reach me on discord **Psychopat#3170**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/ZQNHRFbRwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZQNHRFbRwx" height="30" width="40" /></a>
 </p>
-<div align="center">
-    <h4 align="center"><samp> Full Stack Developer - Gamer</samp></h4>
-</div>
 
-<p align="center">
-    <a href="https://discord.gg/ZQNHRFbRwx"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
-</p>
-
-<h1 align="center">
-    Programming Languages
-</h1>
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-323540?style=for-the-badge&logo=appveyor&logoColor=5294E2" alt="Java" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/JavaScript-323540?style=for-the-badge&logo=javascript&logoColor=5294E2" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Python-323540?style=for-the-badge&logo=python&logoColor=5294E2" alt="Python" style="border-radius:15px"/>
-</div>
-
-<h1 align="center">
-    Tools And Technology
-</h1>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2" alt="Node.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
-    <br/>
-    <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
-</div>
-
-<h1 align="center">
-    Discord Status
-</h1>
-<p align="center">
-    <a href="https://github.com/Psych0Dev">
-      <img src="https://lanyard.cnrad.dev/api/766985594374193162?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Working+on+Minecraft+projects" />
-</p>
-    
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
