@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nexit**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at my github profile
 
 - 📫 You can reach me on discord **Psychopat#3170**
 
