@@ -39,12 +39,3 @@
       <img src="https://lanyard.cnrad.dev/api/766985594374193162?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Working+on+Minecraft+projects" />
 </p>
     
-<h1 align="center">
-    My GitHub Stats
-</h1>
-  <p align="center">
-    <a href="https://github.com/BruTalCODE35">
-        <img src="https://github-readme-stats.vercel.app/api?username=BruTalCODE35&show_icons=true&theme=dark" />
-    <a href="https://github.com/BruTalCODE35">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruTalCODE35&show_icons=true&theme=dark" />
-    </a>
