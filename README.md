@@ -3,7 +3,7 @@
     <h1 align="center">Hi, my name is Psych0Dev 👋</h1>
 </p>
 <div align="center">
-    <h1 align="center"><samp> Full Stack Developer - Gamer</samp></h1>
+    <h5 align="center"><samp> Full Stack Developer - Gamer</samp></h5>
 </div>
 
 <p align="center">
